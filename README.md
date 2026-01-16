@@ -17,14 +17,14 @@ This Graph Data Bank was maded to DIO in 2026, January to show my new skills in 
 ## Image 5 - The third detail ("south and final region"):
 ![5_detalhe3_final](https://github.com/geosidnei/graph_bank1_movies_and_series/blob/main/5_detalhe3_final.png)
 
-And here you are my kilometric hooker code:
+# And here you are my kilometric hooker code:
 
 https://github.com/geosidnei/graph_bank1_movies_and_series/blob/main/gdb_movies_and_series.cypher
 
-# Many thanks to DIO Team because now you teached me to make two news Graph Data Bank that I dreamt for too much years:
+## Many thanks to DIO Team because now you teached me to make two news Graph Data Bank that I dreamt for too much years:
 
-## 1. Geopolítical Data from al the World Regions and Countryes;
-## 2. My own genealogycal family tree! 
+### 1. Geopolítical Data from al the World Regions and Countryes;
+### 2. My own genealogycal family tree! 
 
-# This is Marvelous to me.
-# Many, many Thanks for ever!
+## This is Marvelous to me.
+## Many, many Thanks for ever!
